@@ -10,7 +10,7 @@ To run the jest tests on 'app.js', use 'npm test' (tests may take up to 10 secon
 If any of these commands don't work then try using 'run' e.g. 'npm run test' e.t.c.
 'npm test' runs eslint and jest test cases.
 
-## API Documentation
+# API Documentation
 
 The API I have used is from https://www.metaweather.com/
 
